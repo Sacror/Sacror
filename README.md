@@ -30,5 +30,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sacror&show_icons=true&locale=en&layout=compact" alt="sacror" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sacror&show_icons=true&locale=en&layout=compact" alt="sacror" /></p>
 
