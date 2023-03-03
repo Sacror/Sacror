@@ -29,7 +29,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sacror&layout=compact&langs_count=8" alt="Sacror's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacror&layout=compact&langs_count=8" alt="Sacror's GitHub Stats" />
 </p>
 
 
