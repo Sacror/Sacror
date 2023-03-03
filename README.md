@@ -30,5 +30,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sacror&show_icons=true&locale=en&layout=compact" alt="sacror" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sacror&layout=compact&langs_count=8" alt="Sacror's GitHub Stats" />
+</p>
+
 
