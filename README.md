@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sacror" alt="sacror" /></a> </p>
 
-- 🔭 I’m currently working on **[Green-Home]**([https://github.com/Sacror/Green-Home](https://github.com/Sacror/Green-Home-presentation))
+- 🔭 I’m currently working on [Green Home](https://github.com/Sacror/Green-Home)
 
 - 🌱 Actively learning **iOS Development**
 
