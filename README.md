@@ -28,10 +28,11 @@
    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
 </p>
 
-
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sacror&layout=compact&langs_count=8" alt="Sacror's GitHub Stats" />
 </p>
+
+
+[![Samyo's github stats](https://github-readme-stats.vercel.app/api?username=Sacror&count_private=false&show_icons=true&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Sacror/Sacror))
 
 
