@@ -32,8 +32,3 @@
 
 [![Samyo's github stats](https://github-readme-stats.vercel.app/api?username=Sacror&count_private=false&show_icons=true&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Sacror/Sacror))
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sacror&layout=compact&langs_count=8&exclude_repo=Green-Home-presentation&theme=radical" alt="Samyo's Top Languages" />
-</p>
-
