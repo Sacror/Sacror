@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samyo</h1>
-<h3 align="center">Junior iOS developer</h3>
+<h3 align="center">iOS developer</h3>
 
 
 
