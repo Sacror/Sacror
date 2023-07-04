@@ -3,8 +3,6 @@
 
 
 
-- 🔭 I’m currently working on [Green Home](https://github.com/Sacror/Green-Home-presentation)
-
 - 🌱 Actively learning **iOS Development**
 
 
